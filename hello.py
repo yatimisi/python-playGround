@@ -1,2 +1,2 @@
 name = input('Your name:')
-print(name)
+print('Hello ' + name + '!')
