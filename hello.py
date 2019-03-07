@@ -1,2 +1,2 @@
-name = 'Tom'
-print(name * 20)
+name = input('Your name:')
+print(name)
