@@ -1,2 +1,2 @@
 name = 'Tom'
-print(name)
+print(name * 20)
